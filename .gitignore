@@ -1,0 +1,18 @@
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers d'editeurs
+.vscode/
+.idea/
+*.sublime-*
+
+# Archives et sauvegardes locales (ex: export avant modification manuelle)
+*.zip
+*.bak
+*.tmp
+
+# Fichiers envoyes par Claude en cours de discussion (apercus, maquettes...) :
+# ne font pas partie du theme, pas besoin de les versionner.
+Claude outputs/
